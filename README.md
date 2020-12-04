@@ -2,7 +2,7 @@
 
 ## Download
 
-
+[isometric_cameras.py](https://github.com/sudo-bcli/isometric-cameras/releases/download/v1.0/isometric_cameras.py)
 
 ## Isometric Projection
 
