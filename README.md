@@ -16,10 +16,10 @@ See:
 
 ## History
 
-[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) by brilliant [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
-is a little bit too old so I rewrite his code to fit Blender 2.91.
+[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) written by brilliant [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
+for Blender 2.6 is not compatible with Blender 2.91, so I rewrite his code and made some minor improvements.
 
-_And this is the first Blender Addon that I 'made' (:3)_
+_And this is my first attempt to write a Blender addon (:3)_
 
 ## How to use
 
