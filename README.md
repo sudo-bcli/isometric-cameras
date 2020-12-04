@@ -1,4 +1,4 @@
-# Blender Addon: Isometric Camera
+# Blender Addon: Isometric Cameras
 
 ## Download
 
