@@ -16,7 +16,7 @@
 * [📓 文章](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
 * [🧪 油管](https://www.youtube.com/watch?v=YycYkyxwHr4)
 
-发现[Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)写的[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py)无法在Blender 2.91上运行，只好自己重写了一下，并作了一些小的改进。
+因为发现[Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)写的[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py)无法在Blender 2.91上运行，所自己重写了一下并作了一些小的改进。
 
 _另外我是不会告诉你这是我写的第一个Blender插件 🥲_
 
@@ -31,7 +31,7 @@ _另外我是不会告诉你这是我写的第一个Blender插件 🥲_
 
 ## 🐞 除虫
 
-[批发杀虫剂，大修航母，航天飞机换三滤……](https://github.com/sudo-bcli/isometric-cameras/issues)
+[Issue Tab](https://github.com/sudo-bcli/isometric-cameras/issues)
 
 ## 🗞️ 软件许可
 
