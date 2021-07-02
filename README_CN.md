@@ -4,7 +4,7 @@
 
 ## 🎪 展示
 
-![展示](img/showcase.jpg)
+![展示](showcase.jpg)
 
 ## 📷 等距投影
 
