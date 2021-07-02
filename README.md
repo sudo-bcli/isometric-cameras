@@ -12,9 +12,9 @@ Isometric projection can be used in rendering sprites for 45 degree tile based g
 
 See:
 
-* [Wikipedia🌐](https://en.wikipedia.org/wiki/Isometric_projection)
-* [Article](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
-* [YouTube🧪](https://www.youtube.com/watch?v=YycYkyxwHr4)
+* [🌐 Wikipedia](https://en.wikipedia.org/wiki/Isometric_projection)
+* [📓 Article](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
+* [🧪 YouTube](https://www.youtube.com/watch?v=YycYkyxwHr4)
 
 I found [Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) written by [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
 is not compatible with Blender 2.91, so I rewrote his code and made minor improvements.

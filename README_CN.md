@@ -12,9 +12,9 @@
 
 相关资料：
 
-* [喂鸡🐔百科](https://en.wikipedia.org/wiki/Isometric_projection)
-* [文章](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
-* [油管🧪](https://www.youtube.com/watch?v=YycYkyxwHr4)
+* [🐔 喂鸡百科](https://en.wikipedia.org/wiki/Isometric_projection)
+* [📓 文章](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
+* [🧪 油管](https://www.youtube.com/watch?v=YycYkyxwHr4)
 
 发现[Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)写的[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py)无法在Blender 2.91上运行，只好自己重写了一下，并作了一些小的改进。
 
