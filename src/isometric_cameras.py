@@ -6,7 +6,7 @@ bl_info = {
     "name": "Isometric Cameras",
     "author": "Benjamin Lee",
     "version": (1, 0),
-    "blender": (2, 91, 0),
+    "blender": (2, 93, 1),
     "location": "View3D > Add > Camera > Isometric Cameras",
     "description": "Adds Isometric Cameras to the Scene",
     "warning": "",
