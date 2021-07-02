@@ -1,12 +1,16 @@
 # Blender Addon: Isometric Cameras
 
-## Download
+## Showcase
 
-[isometric_cameras.py](https://github.com/sudo-bcli/isometric-cameras/releases/download/v1.0/isometric_cameras.py)
+![showcase](img/how-to.png)
 
+## Install
+
+1. Download [isometric_cameras.py](https://github.com/sudo-bcli/isometric-cameras/releases/download/v1.0/isometric_cameras.py)
+2. In Blender, `Preferences->Addon->Install`, Open `isometric_cameras.py`, then `Enable Addon`.
 ## Isometric Projection
 
-Cameras with Isometric projection can be used to render sprites for 45 degree tile based games.
+Isometric projection can be used to render sprites for 45 degree tile based games.
 
 See:
 
@@ -14,20 +18,10 @@ See:
 * [Article](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
 * [Youtube Video](https://www.youtube.com/watch?v=YycYkyxwHr4)
 
-## History
-
-[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) written by brilliant [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
-for Blender 2.6 is not compatible with Blender 2.91, so I rewrite his code and made some minor improvements.
+I found [Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) written by [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
+is not compatible with Blender 2.91, so I rewrote his code and made minor improvements.
 
 _And this is my first attempt to write a Blender addon (:3)_
-
-## How to use
-
-`Preferences->Addon->Install->isometric_cameras.py`, enable it,
- 
- In 3D view, `Shift-A->Camera->Isometric Camera`
-
- ![how-to](img/how-to.png)
 
 ---
 Benjamin Lee, 2020-12
