@@ -8,17 +8,17 @@
 
 ## 📷 等距投影
 
-等距投影可以用来为45度棋盘游戏（直译叫“瓷砖游戏”？Tile based）渲染精灵图(sprite)。
+等距投影可以用来为45度方格游戏渲染精灵图。
 
 相关资料：
 
-* [🐔 喂鸡百科](https://en.wikipedia.org/wiki/Isometric_projection)
+* [🌐 维基百科](https://en.wikipedia.org/wiki/Isometric_projection)
 * [📓 文章](https://www.blender3darchitect.com/architectural-visualization/create-true-isometric-camera-architecture/)
 * [🧪 油管](https://www.youtube.com/watch?v=YycYkyxwHr4)
 
-因为发现[Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)写的[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py)无法在Blender 2.91上运行，所自己重写了一下并作了一些小的改进。
+因为发现[Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)写的[Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py)无法在Blender 2.91上运行，所自己重写了他的代码并作了一些小的改进。
 
-_另外我是不会告诉你这是我写的第一个Blender插件 🥲_
+_我才不会告诉你这是我写的第一个Blender插件 🎆_
 
 ## 💻 安装
 

@@ -19,12 +19,12 @@ See:
 I found [Create IsoCam Addon](https://www.reinerstilesets.de/blender/createisocam.py) written by [Reiner 'Tiles' Prokein](https://www.reinerstilesets.de/)
 is not compatible with Blender 2.91, so I rewrote his code and made minor improvements.
 
-_And this is my first attempt to write a Blender addon 🥲_
+_This is my first attempt to write a Blender addon, and I made it. 🎆_
 
 ## 💻 Install
 
 1. Download [isometric_cameras.py](https://github.com/sudo-bcli/isometric-cameras/releases/)
-2. In Blender `Edit->Preferences->Addon->Install`, open `isometric_cameras.py`, then `Enable Addon` (check box to to left).
+2. In Blender `Edit->Preferences->Addon->Install`, open `isometric_cameras.py`, then `Enable Addon` (checkbox to the left).
 
 ## 🚀 Updates
 
