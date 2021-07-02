@@ -4,7 +4,7 @@
 
 ## 🎪 Showcase
 
-![showcase](img/how-to.png)
+![showcase](img/how-to.jpg)
 
 ## 📷 Isometric Projection
 
